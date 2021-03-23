@@ -2,7 +2,7 @@
 <widget id="com.ssmDelireryActCMS" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Giao hàng nhanh</name>
     <description>Giao hàng nhanh</description>
-    <author email="actcms.work@gmail.com" href="http://actcms.work/">Giao hàng nhanh</author>
+    <author email="#" href="#">Giao hàng nhanh</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
